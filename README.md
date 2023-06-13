@@ -8,4 +8,4 @@ Jupyter notebooks are provided as well, showcasing my steps.
 # Guidelines and rubric
  You will also find the rubric and guideline that was used to grade each part(**Midterm Project-Mat455.pdf** and **Final Project.pdf**).
 # My review of this class
-I loved this class alot and its a shame that I couldn't fully understand everything that Professor Massa taught.
+I loved this class alot and its a shame that I couldn't fully understand everything that Professor Massa taught. She was working as a data scientist when she lectured and had alot of industry knowledge. This showed in her lectures and assignments she would give us. As someone looking to climb the AI ladder, she provided insights and skills needed to achieve that goal. Alot of what I learned from this class is still used today and refined through later works.
