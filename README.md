@@ -4,5 +4,5 @@ There are *two parts* to this project. First is the **EDA** where I analysed rus
 Second is **modelling** which builds off of the **EDA** where I used word2vec and two scikit-learn models. Within each part, there a pdf file detailing what was done and achieved.
 **midterm project.pdf** and **final project mat.pdf**.
 # Guidelines and rubric
- You will find the rubric and guideline that was used to for each part(**Midterm Project-Mat455.pdf and Final Project.pdf**).
+ You will also find the rubric and guideline that was used to for each part(**Midterm Project-Mat455.pdf and Final Project.pdf**).
 #
